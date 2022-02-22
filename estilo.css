@@ -106,9 +106,9 @@ footer a{
     height: 50px;
 }
 
-@media screen and () {
+/* @media screen and () {
     main{
         display: grid;
         grid-template-columns: 1fr;
     }
-}
+} */
